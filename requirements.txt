@@ -1,0 +1,10 @@
+flask
+invoke
+https://filebin.net/xge3ogo48zryigv7/google_cloud_aiplatform-1.25.dev20230413_language.models-py2.py3-none-any.whl
+shapely<2.0.0
+flask-restful
+pandas
+requests
+gunicorn
+pyshorteners
+urllib3<2.0
